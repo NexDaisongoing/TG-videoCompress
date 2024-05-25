@@ -11,8 +11,7 @@ A Telegram Bot To Encode Videos Using FFMPEG
 
 `Heroku`
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NexDaisongoing/TG-videoCompress)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 `Railway` 
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAnshusharma75%2FTG-videoCompress&envs=API_HASH%2CAPP_ID%2CBOT_TOKEN%2COWNER%2CTHUMBNAIL&optionalEnvs=THUMBNAIL&API_HASHDesc=Get+this+value+from+telegram.org+&APP_IDDesc=Get+this+value+from+telegram.org+&BOT_TOKENDesc=Go+to+%40Botfather+and+make+a+new+bot+and+paste+the+bot+token+here&OWNERDesc=Your+owner+Id+%28add+only+1+id+for+working+queue+feature+%29&THUMBNAILDesc=Add+thumbnail+telegraph+link+&THUMBNAILDefault=https://telegra.ph/file/3b88ebb3aa3f54caa0aea.jpg)
