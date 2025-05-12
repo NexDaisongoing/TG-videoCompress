@@ -13,10 +13,15 @@
 # License can be found in <
 # https://github.com/1Danish-00/CompressorQueue/blob/main/License> .
 
+import logging
 from decouple import config
 
+
+LOGS = logging.getLogger(__name__)
+
 try:
-    APP_ID = config("10419615", cast=int)
+   
+    APP_ID = config("APP_ID", default=10419615, cast=int)
     API_HASH = config("412bca750b8004784adeeafb98e991c5")
     BOT_TOKEN = config("7882507899:AAHVLoQJ7mCnihdxlMTiI0LkMV7cmbXd5no")
     DEV = 1287276743
