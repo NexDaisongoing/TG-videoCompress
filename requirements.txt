@@ -4,3 +4,4 @@ pyaes
 psutil
 telethon
 html-telegraph-poster
+lxml[html_clean]
